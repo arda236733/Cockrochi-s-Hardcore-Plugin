@@ -1,0 +1,14 @@
+name: Cockrochihcore
+version: '${project.version}'
+main: me.cockrochi.cockrochihcore.Cockrochihcore
+api-version: 1.16
+commands:
+  feed:
+    description: Fills your hunger bar, or does it?
+    usage: /<command>
+  diamondchance:
+    description: 1/10 chance of getting a single diamond, 9/10 chance of-
+    usage: /<command>
+    aliases:
+      - diamondgame
+      - diamond
