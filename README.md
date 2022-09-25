@@ -4,7 +4,9 @@
 
 ## Changelog
 
-0.0.1 : First commit
+0.0.1 : First commit 
+
+
 0.0.2: Fixed the issue of the StepOnGrass event being triggered on block targeting rather than being on the block itself
 
 
