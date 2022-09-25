@@ -1,0 +1,21 @@
+name: Cockrochihcore
+version: '${project.version}'
+main: me.cockrochi.cockrochihcore.Cockrochihcore
+api-version: 1.16
+commands:
+  feed:
+    description: Fills your hunger bar, or does it?
+    usage: /<command>
+  diamondchance:
+    description: 1/10 chance of getting a single diamond, 9/10 chance of-
+    usage: /<command>
+    aliases:
+      - diamondgame
+      - diamond
+  setSpawn:
+    description: Stores the current sender location if no args are given, stores the given player's location if args are given
+    usage: /<command> args
+
+  goToSpawn:
+    description: Teleports player to the player's spawn location if no args are given, teleports player to the argument's spawn location if args are given
+    usage: /<command> args
