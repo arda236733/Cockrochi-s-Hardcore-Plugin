@@ -1,6 +1,11 @@
 ## Cockrochi's Hardcore Plugin
 
-<h>Cur. Version: v0.0.1 Initial (Minecraft 1.16.5)</h>
+<h>Cur. Version: v0.0.2 (Minecraft 1.16.5)</h>
+
+## Changelog
+
+0.0.1 : First commit
+0.0.2: Fixed the issue of the StepOnGrass event being triggered on block targeting rather than being on the block itself
 
 
 
